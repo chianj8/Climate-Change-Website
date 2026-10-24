@@ -5,13 +5,13 @@ nav_order: 1
 ---
 # Playing with Text Styles
 
-**This is bold text**
-*This text is italicized*
-~~This text has a strikethrough~~
+**This is bold text**  
+*This text is italicized*  
+~~This text has a strikethrough~~  
 
 # Image
 
-![Image of a surfer in the ocean.] (https://hips.hearstapps.com/hmg-prod/images/98b25e09-339c-47e7-9fa8-a75e9f7072f6.jpeg?crop=0.665xw:1xh;0.159xw,0xh)
+![Image of a surfer in the ocean.](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mavericks_Surf_Contest_2010b.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
 
 # Lists
 
@@ -42,9 +42,9 @@ git add
 git commit
 ```
 # A Table
----
-Fall: :EMOJICODE🍂
-Winter: :EMOJICODE❄️
-Spring: :EMOJICODE💮
-Summer: :EMOJICODE☀️
----
+| Season | Emoji |
+| --- | --- |
+| Fall   |  🍂|
+| Winter |  ❄️| 
+| Spring |  🌻| 
+| Summer |  ☀️| 
